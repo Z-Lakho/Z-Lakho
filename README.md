@@ -73,14 +73,6 @@ me.say_hi()
 </div>
 </details>
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZLakho&theme=react&hide_border=true&fire=DD2727" alt="Streak Stats" />
-  <br>
-  <br>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZLakho&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
 
 ### 🌟 Current Focus
 
